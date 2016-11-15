@@ -14,7 +14,7 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-weibo: haibinNetAccount
+#weibo: haibinNetAccount
 github: haibincoder
 
 # avatar and Favicon

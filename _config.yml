@@ -18,8 +18,8 @@ weibo: haibinNetAccount
 github: haibincoder
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: https://github.com/haibincoder/haibincoder.github.io/blob/master/assets/img/HaibinImage.bmp
+favicon: https://github.com/haibincoder/haibincoder.github.io/blob/master/assets/img/HaibinImage.bmp
 
 # disqus config
 #disqus:
